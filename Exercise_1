@@ -1,0 +1,10 @@
+#9d henry david caicedo
+
+myage = int(input("how old are you"))
+my_name = str(input("what´s your name"))
+last_name = str(input("what´s your last name"))
+greeting = "Hello, good morning"
+message = greeting + " " + my_name + " " + last_name
+counter = 0
+counter += 1
+print (message)
